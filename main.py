@@ -325,4 +325,4 @@ for i in range(1000000):
     r.x = x
     r.y = y
 
-img2.saveImage("caca.ppm")
+img2.saveImage("sierpiski.ppm")
